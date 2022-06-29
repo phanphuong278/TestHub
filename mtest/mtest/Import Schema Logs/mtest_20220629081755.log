@@ -1,0 +1,87 @@
+6/29/2022 3:17:55 PM	This log contains information about the import schema operation into project 'mtest' on computer 'DL-PHUONGPLK' by user 'phuong.phan'.
+6/29/2022 3:17:55 PM	Import of database schema has started.
+6/29/2022 3:18:02 PM	Gathering database credentials
+6/29/2022 3:18:02 PM	Gathering database options
+6/29/2022 3:18:02 PM	Gathering generic database scoped configuration option
+6/29/2022 3:18:02 PM	Gathering users
+6/29/2022 3:18:02 PM	Gathering roles
+6/29/2022 3:18:02 PM	Gathering application roles
+6/29/2022 3:18:02 PM	Gathering role memberships
+6/29/2022 3:18:02 PM	Gathering filegroups
+6/29/2022 3:18:02 PM	Gathering full-text catalogs
+6/29/2022 3:18:02 PM	Gathering assemblies
+6/29/2022 3:18:02 PM	Gathering certificates
+6/29/2022 3:18:02 PM	Gathering asymmetric keys
+6/29/2022 3:18:02 PM	Gathering symmetric keys
+6/29/2022 3:18:02 PM	Gathering encrypted symmetric keys
+6/29/2022 3:18:02 PM	Gathering schemas
+6/29/2022 3:18:02 PM	Gathering XML schema collections
+6/29/2022 3:18:02 PM	Gathering user-defined data types
+6/29/2022 3:18:02 PM	Gathering user-defined types
+6/29/2022 3:18:02 PM	Gathering table types
+6/29/2022 3:18:02 PM	Gathering unique keys for table types
+6/29/2022 3:18:02 PM	Gathering primary keys for table types
+6/29/2022 3:18:02 PM	Gathering indexes for table types
+6/29/2022 3:18:02 PM	Gathering check constraints for table types
+6/29/2022 3:18:02 PM	Gathering default constraints for table types
+6/29/2022 3:18:02 PM	Gathering partition functions
+6/29/2022 3:18:02 PM	Gathering partition schemes
+6/29/2022 3:18:02 PM	Gathering functions
+6/29/2022 3:18:02 PM	Gathering encrypted functions
+6/29/2022 3:18:02 PM	Gathering aggregates
+6/29/2022 3:18:02 PM	Gathering procedures
+6/29/2022 3:18:02 PM	Gathering encrypted procedures
+6/29/2022 3:18:02 PM	Gathering tables
+6/29/2022 3:18:02 PM	Gathering primary keys
+6/29/2022 3:18:02 PM	Gathering unique constraints
+6/29/2022 3:18:02 PM	Gathering foreign keys
+6/29/2022 3:18:02 PM	Gathering default constraints
+6/29/2022 3:18:02 PM	Gathering check constraints
+6/29/2022 3:18:02 PM	Gathering views
+6/29/2022 3:18:02 PM	Gathering encrypted views
+6/29/2022 3:18:02 PM	Gathering indexes
+6/29/2022 3:18:02 PM	Gathering statistics
+6/29/2022 3:18:02 PM	Gathering full-text index stoplists
+6/29/2022 3:18:02 PM	Gathering search property lists
+6/29/2022 3:18:02 PM	Gathering search properties
+6/29/2022 3:18:02 PM	Gathering full-text indexes
+6/29/2022 3:18:02 PM	Gathering column store indexes
+6/29/2022 3:18:02 PM	Gathering spatial indexes
+6/29/2022 3:18:02 PM	Gathering XML indexes
+6/29/2022 3:18:02 PM	Gathering Selective XML indexes
+6/29/2022 3:18:02 PM	Gathering encrypted triggers
+6/29/2022 3:18:02 PM	Gathering triggers
+6/29/2022 3:18:02 PM	Gathering encrypted and clr ddl triggers
+6/29/2022 3:18:02 PM	Gathering ddl triggers
+6/29/2022 3:18:02 PM	Creating edge constraints
+6/29/2022 3:18:02 PM	Gathering synonyms
+6/29/2022 3:18:02 PM	Gathering defaults
+6/29/2022 3:18:02 PM	Gathering data constraint uddt bindings
+6/29/2022 3:18:02 PM	Gathering rules
+6/29/2022 3:18:02 PM	Gathering data constraint uddt bindings
+6/29/2022 3:18:02 PM	Gathering message types
+6/29/2022 3:18:02 PM	Gathering queues
+6/29/2022 3:18:02 PM	Gathering contracts
+6/29/2022 3:18:02 PM	Gathering services
+6/29/2022 3:18:02 PM	Gathering event notifications
+6/29/2022 3:18:02 PM	Gathering remote service bindings
+6/29/2022 3:18:02 PM	Gathering broker priorities
+6/29/2022 3:18:02 PM	Gathering signatures
+6/29/2022 3:18:02 PM	Gathering data compression options
+6/29/2022 3:18:02 PM	Gathering sequence types
+6/29/2022 3:18:02 PM	Gathering security policies
+6/29/2022 3:18:02 PM	Gather column encryption keys
+6/29/2022 3:18:02 PM	Gathering column master keys
+6/29/2022 3:18:02 PM	Gathering external data sources
+6/29/2022 3:18:02 PM	Gathering external file formats
+6/29/2022 3:18:02 PM	Gathering external tables
+6/29/2022 3:18:02 PM	Gathering extended properties
+6/29/2022 3:18:02 PM	Gathering assemblies
+6/29/2022 3:18:02 PM	Gathering credentials
+6/29/2022 3:18:02 PM	Gathering logins
+6/29/2022 3:18:02 PM	Gathering server audits
+6/29/2022 3:18:03 PM	Scanning project for duplicate elements
+6/29/2022 3:18:03 PM	Finished duplicate element processing
+6/29/2022 3:18:03 PM	Finished importing database.
+6/29/2022 3:18:03 PM	A summary of the import was saved to the following location: C:\Users\phuong.phan\source\repos\mtest\mtest\Import Schema Logs\mtest_20220629081755.log
+6/29/2022 3:18:03 PM	Click Finish to continue...
